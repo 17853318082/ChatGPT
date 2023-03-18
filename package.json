@@ -55,7 +55,8 @@
     "rehype-raw": "^6.1.1",
     "remark-comment-config": "^7.0.1",
     "remark-gfm": "^3.0.1",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.2.2",
